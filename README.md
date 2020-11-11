@@ -1,4 +1,4 @@
-# Projeto de Automatos Utilizando Padrâo State
+# Projeto de Automatos Utilizando Padrão State
 
 Apresentação: https://www.youtube.com/watch?v=3mkEXRuceRI
 
