@@ -20,3 +20,6 @@ nome parâmetros e retorno do método
 
 d. Realize testes para validar o fluxo definido no diagrama, que aceite e
 rejeite simulações de pedidos.
+
+
+Para Teste Rode utilizando o vscode e o Java 11JDK 
