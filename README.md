@@ -1,4 +1,5 @@
 # Projeto de Automatos Utilizando Padrão State
+[![Vídeo de Explicação do Projeto de Autômatos](http://img.youtube.com/vi/3mkEXRuceRI/0.jpg)](http://www.youtube.com/watch?v=3mkEXRuceRI "Explicação do Padrão de Projeto State")
 
 Apresentação: https://www.youtube.com/watch?v=3mkEXRuceRI
 
